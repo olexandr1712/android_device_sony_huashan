@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_huashan-eng
-add_lunch_combo aosp_huashan-userdebug
+add_lunch_combo aicp_huashan-eng
+add_lunch_combo aicp_huashan-userdebug
