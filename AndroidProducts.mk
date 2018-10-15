@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp.mk
+    $(LOCAL_DIR)/rr.mk
